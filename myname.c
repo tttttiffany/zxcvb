@@ -2,5 +2,5 @@
 
 main() {
 
-    printf("�L�鸩\n");
+    printf("林芷萱\n");
 }
